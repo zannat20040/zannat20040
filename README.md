@@ -3,7 +3,7 @@
  
 <img width="100%" src="https://i.ibb.co/bgKNG11/Blue-And-White-Modern-Minimal-Business-Channel-Youtube-Banner.png" alt="cover" />
 </div>
-<h1 align="center">Hi,I'm Hema</h1> 
+<h1 align="center">Hi,I'm Hema 👋</h1> 
 <h3 align="center">A skilled Front-end developer with Back-end proficiency</h3>
 
 <div align="center">
@@ -11,12 +11,13 @@
 </div>
 <br>
 
-<div align="center">
-<h2><img src = "https://cdn.dribbble.com/users/959774/screenshots/2710177/quantify-animation.gif" width="40px" height="40px"> About Me </h2>
-<img width="55%" align="right" alt="Github" src="https://miro.medium.com/v2/resize:fit:1358/1*nCpfU7AD35VLsljEvbVfSw.gif" />
+<h2><img src = "https://cdn.dribbble.com/users/959774/screenshots/2710177/quantify-animation.gif" width="70px" height="70px"> About Me </h2>
+<img width="55%" align="right" alt="Github" src="https://www.innovination.com/wp-content/uploads/2021/06/develpoment.gif" />
 
-
-</div>
+- 🤞 I find joy in the process of problem-solving. 
+- 📝 Constantly learning and expanding my skill set, I am focused on mastering technologies such as React, Express.js, Node.js, Bootstrap, and MongoDB
+- 🏨 Currently, I am coding my way through a Hostel Management project.
+ - 👌 I strongly believe in the power of clean, maintainable code."
 <br>
 
 <p align="center">
