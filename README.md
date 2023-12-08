@@ -3,7 +3,7 @@
  
 <img width="100%" src="https://i.ibb.co/bgKNG11/Blue-And-White-Modern-Minimal-Business-Channel-Youtube-Banner.png" alt="cover" />
 </div>
-<h1 align="center"> <img src = "https://i.ibb.co/fnk6Mrs/1-removebg-preview.png"></h1> 
+<h1 align="center"> <img src = "https://i.ibb.co/TYVGwMb/Black-Pink-Bold-Elegant-Monogram-Personal-Brand-Logo-1-removebg-preview.png" width="55%" ></h1> 
 <h3 align="center">A skilled Front-end developer with Back-end proficiency</h3>
 
 <div align="center">
