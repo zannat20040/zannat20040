@@ -11,18 +11,22 @@
 </div>
 <br>
 
-<h2><img src = "https://cdn.dribbble.com/users/959774/screenshots/2710177/quantify-animation.gif" width="70px" height="70px"> About Me </h2>
+<h2>🙋‍♀️ About Me </h2>
 <img width="55%" align="right" alt="Github" src="https://www.innovination.com/wp-content/uploads/2021/06/develpoment.gif" />
 
 - 🤞 I find joy in the process of problem-solving. 
-- 📝 Constantly learning and expanding my skill set, I am focused on mastering technologies such as React, Express.js, Node.js, Bootstrap, and MongoDB
+
+- 📝 Constantly learning and expanding my skill set, I am focused on mastering technologies such as React, Express.js, Node.js, Bootstrap, and MongoDB.
+
 - 🏨 Currently, I am coding my way through a Hostel Management project.
- - 👌 I strongly believe in the power of clean, maintainable code."
+
+- 👌 I strongly believe in the power of clean, maintainable code."
 <br>
 
+<h2>🖥 Tools & Technologies </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,firebase,nodejs,mongodb,express" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,firebase,nodejs,mongodb,express&perline=5" />
   </a>
 </p>
 
