@@ -16,17 +16,26 @@
 
 - 🤞 I find joy in the process of problem-solving. 
 
-- 📝 Constantly learning and expanding my skill set, I am focused on mastering technologies such as React, Express.js, Node.js, Bootstrap, and MongoDB.
+- 🚀 Passionate front-end developer mastering HTML, CSS, and JavaScript, Firebase.
+
+- 💻 Expert in crafting beautiful interfaces with React and Tailwind CSS.
+
+- 📝 Currently exploring the technoligies like Express.js, Node.js, Bootstrap, and MongoDB more.
 
 - 🏨 Currently, I am coding my way through a Hostel Management project.
 
-- 👌 I strongly believe in the power of clean, maintainable code."
+- 🛠️ Dedicated to continuous learning and pushing the boundaries of web development.
+
+- 👌 I strongly believe in the power of clean, maintainable code.
+
+- 🤝 Eager to collaborate on projects that combine creativity and technology.
+
 <br>
 
 <h2>🖥 Tools & Technologies </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,firebase,nodejs,mongodb,express&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,firebase,nodejs,mongodb,express&perline=3" />
   </a>
 </p>
 
