@@ -9,6 +9,9 @@
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=zannat20040&theme=iceberg" alt="GitHub Streak" /></a>
 </div>
-<div align="center">
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,firebase,nodejs,mongodb,express)](https://skillicons.dev)
-</div>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,firebase,nodejs,mongodb,express" />
+  </a>
+</p>
