@@ -41,20 +41,8 @@
 
 <br>
 
-[![GitHub Profile Summary - Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zannat20040&theme=nord_dark)](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zannat20040&theme=nord_dark)
-
-
-[![GitHub Profile Summary -GitHub stats card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zannat20040&theme=nord_dark)](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zannat20040&theme=nord_dark)[![GitHub Profile Summary -Top languages in commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zannat20040&theme=nord_dark&exclude={exclude})](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zannat20040&theme=nord_dark)[![GitHub Profile Summary -Top languages used](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zannat20040&theme=nord_dark&exclude={exclude})](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zannat20040&theme=nord_dark&exclude={exclude})
-
-[![GitHub Profile Summary - Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zannat20040&theme=nord_dark)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zannat20040e&theme=nord_dark)
-
-
-
-<a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zannat20040&theme=nord_dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zannat20040&theme=nord_dark" alt="GitHub Profile Summary - Productive Time" style="max-width:100%;">
-</a>
-
-
+<div align="center">
+ 
 <a href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zannat20040&theme=nord_dark">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zannat20040&theme=nord_dark" alt="GitHub Profile Summary - GitHub stats card" style="max-width:100%;">
 </a>
@@ -73,3 +61,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zannat20040&theme=nord_dark" alt="GitHub Profile Summary - Productive Time" style="max-width:100%;">
 </a>
 
+<a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zannat20040&theme=nord_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zannat20040&theme=nord_dark" alt="GitHub Profile Summary - Productive Time" style="max-width:100%;">
+</a>
+</div>
