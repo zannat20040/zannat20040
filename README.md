@@ -1,7 +1,7 @@
 <div align="center">
  
  
-<img width="100%" src="https://i.ibb.co/bgKNG11/Blue-And-White-Modern-Minimal-Business-Channel-Youtube-Banner.png" alt="cover" />
+<img width="100%" src="https://i.ibb.co/QJ4bXJg/Blue-And-White-Modern-Minimal-Business-Channel-Youtube-Banner-3.png" alt="cover" />
 </div>
 <h1 align="center">Hi,I'm Hema 👋</h1> 
 <h3 align="center">A skilled Front-end developer with Back-end proficiency</h3>
