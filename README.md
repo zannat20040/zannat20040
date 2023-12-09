@@ -43,3 +43,5 @@
 
 [![GitHub Profile Summary - Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zannat20040&theme=nord_dark)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zannat20040e&theme=nord_dark)
 
+[![GitHub Profile Summary -GitHub stats card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zannat20040&theme=nord_dark)](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zannat20040&theme=zannat20040)
+
