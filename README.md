@@ -41,5 +41,5 @@
 
 <br>
 
-[![GitHub Profile Summary - Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zannat20040&theme=default&utcOffset=-12:00)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zannat20040e&theme=default&utcOffset=-12:00)
+[![GitHub Profile Summary - Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zannat20040&theme=nord_dark&utcOffset=12:00)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zannat20040e&theme=nord_dark&utcOffset=12:00)
 
