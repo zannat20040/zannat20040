@@ -35,7 +35,7 @@
 <h2>🖥 Tools & Technologies </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,firebase,nodejs,mongodb,express,github,git,figma,&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,firebase,nodejs,mongodb,express,github,git,figma&perline=6" />
   </a>
 </p>
 
@@ -43,6 +43,6 @@
 
 
 
-[![GitHub Profile Summary -GitHub stats card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zannat20040&theme=nord_dark)](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zannat20040&theme=nord_dark) [![GitHub Profile Summary -Top languages in commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zannat20040&theme=nord_dark&exclude={exclude})](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zannat20040&theme=nord_dark) [![GitHub Profile Summary -Top languages used](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zannat20040&theme=nord_dark&exclude={exclude})](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zannat20040&theme=nord_dark&exclude={exclude})
+[![GitHub Profile Summary -GitHub stats card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zannat20040&theme=nord_dark)](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zannat20040&theme=nord_dark)[![GitHub Profile Summary -Top languages in commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zannat20040&theme=nord_dark&exclude={exclude})](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zannat20040&theme=nord_dark)[![GitHub Profile Summary -Top languages used](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zannat20040&theme=nord_dark&exclude={exclude})](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zannat20040&theme=nord_dark&exclude={exclude})
 
 [![GitHub Profile Summary - Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zannat20040&theme=nord_dark)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zannat20040e&theme=nord_dark)
