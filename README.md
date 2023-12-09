@@ -33,6 +33,7 @@
 <br>
 
 <h2>🖥 Technologies That I know</h2>
+<br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,firebase,nodejs,mongodb,express,github,git,figma&perline=6" />
